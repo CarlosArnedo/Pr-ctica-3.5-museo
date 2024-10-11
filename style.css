@@ -1,0 +1,22 @@
+header.titulo{
+    background-color: yellow;
+    text-align: center;
+}
+
+nav.enlaces{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+article{
+    background-color: orange;
+}
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
+a.amarillo{
+    display: inline;
+    background-color: yellow;
+}
